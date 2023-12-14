@@ -1,7 +1,7 @@
-Hi 👋 My name is Teerapat Chantaramanee
+Hi 👋 My name is Teerapat Chantaramanee.
 =======================================
 
-Web Developer
+You can call me Benz.
 -------------
 
 I've been learning programming for 4 years, starting from attending the Computer Olympiad Camp 1-2 at Naresuan University, which sparked my interest in coding. After completing Grade 12, I pursued a degree in Computer Engineering at Chulalongkorn University, where I am currently studying. And now I'm looking for a summer internship opportunity in the field of software development.
