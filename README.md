@@ -43,4 +43,5 @@ I've been learning programming for 4 years, starting from attending the Computer
 ### Badges
 
 <b>My GitHub Stats</b>
-    <a href="http://www.github.com/TeerapatChan"><img src="https://github-readme-stats.vercel.app/api?username=TeerapatChan&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="TeerapatChan's GitHub stats" /></a>
+
+<a href="http://www.github.com/TeerapatChan"><img src="https://github-readme-stats.vercel.app/api?username=TeerapatChan&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="TeerapatChan's GitHub stats" /></a>
