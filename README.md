@@ -1,14 +1,8 @@
 Hi 👋 My name is Teerapat Chantaramanee.
 =======================================
 
-You can call me Benz.
--------------
-
-I've been learning programming for 4 years, starting from attending the Computer Olympiad Camp 1-2 at Naresuan University, which sparked my interest in coding. After completing Grade 12, I pursued a degree in Computer Engineering at Chulalongkorn University, where I am currently studying. And now I'm looking for a summer internship opportunity in the field of software development.
-
 *   🌍  I'm based in Bangkok
 *   ✉️  You can contact me at [teerapat.chtrmn@gmail.com](mailto:teerapat.chtrmn@gmail.com)
-*   🧠  I'm learning Backend Development (Golang)
 
 ### Programming Languages
 
