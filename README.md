@@ -1,4 +1,4 @@
-Hi 👋 My name is Teerapat Chantaramanee.
+Hi 👋 I'm Benz, Teerapat
 =======================================
 
 *   🌍  I'm based in Bangkok
